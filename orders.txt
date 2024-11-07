@@ -1,0 +1,60 @@
+Order ID: 1
+Customer: ID: 1, Name: e, Email: e
+Total Amount: 13500.0
+Products:
+Product ID: 1, Name: Laptop, Price: 1500.0, Quantity: 9
+
+Order ID: 2
+Customer: ID: 2, Name: r, Email: r
+Total Amount: 14400.0
+Products:
+Product ID: 2, Name: Smartphone, Price: 800.0, Quantity: 18
+
+Order ID: 1
+Customer: ID: 1, Name: manh, Email: manh
+Total Amount: 0.0
+Products:
+Product ID: 1, Name: 1, Price: 1.0, Quantity: 0
+
+Order ID: 1
+Customer: ID: 1, Name: manh, Email: manh
+Total Amount: 2.0
+Products:
+Product ID: 1, Name: 1, Price: 1.0, Quantity: 2
+
+Order ID: 1
+Customer: ID: 1, Name: manh, Email: manh
+Total Amount: 0.0
+Products:
+Product ID: 1, Name: 1, Price: 1.0, Quantity: 0, File Size: 12.0 MB
+
+Order ID: 2
+Customer: ID: 1, Name: manh, Email: manh
+Total Amount: 2.0
+Products:
+Product ID: 2, Name: 2, Price: 2.0, Quantity: 1
+
+Order ID: 1
+Customer: ID: 1, Name: manh, Email: manh
+Total Amount: 0.0
+Products:
+Product ID: 1, Name: 1, Price: 1.0, Quantity: 0
+
+Order ID: 1
+Customer: ID: 1, Name: manh, Email: 1
+Total Amount: 0.0
+Products:
+Product ID: 1, Name: 1, Price: 1.0, Quantity: 0
+
+Order ID: 1
+Customer: ID: 1, Name: manh, Email: 1
+Total Amount: 11.0
+Products:
+Product ID: 1, Name: 1, Price: 1.0, Quantity: 11
+
+Order ID: 1
+Customer: ID: 1, Name: manh, Email: manh
+Total Amount: 108.0
+Products:
+Product ID: 1, Name: 1, Price: 12.0, Quantity: 1
+
