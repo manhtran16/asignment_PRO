@@ -58,3 +58,22 @@ Total Amount: 108.0
 Products:
 Product ID: 1, Name: 1, Price: 12.0, Quantity: 1
 
+Order ID: 1
+Customer: ID: 1, Name: manh, Email: manh
+Total Amount: 100.0
+Products:
+Product ID: 1, Name: sach, Price: 10.0, Quantity: 10, File Size: 12.0 MB
+
+Order ID: 1
+Customer: ID: 1, Name: manh, Email: manh
+Total Amount: 220.0
+Products:
+Product ID: 1, Name: sach, Price: 10.0, Quantity: 10, File Size: 12.0 MB
+Product ID: 2, Name: vo, Price: 12.0, Quantity: 10
+
+Order ID: 1
+Customer: ID: 1, Name: manh, Email: manh
+Total Amount: 1.0
+Products:
+Product ID: 1, Name: 1, Price: 1.0, Quantity: 110
+
